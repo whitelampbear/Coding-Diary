@@ -1,0 +1,19 @@
+#python diary
+
+----coding standard----
+1. variables use _ as space ie) my_variable
+2. whitespace provides the structure in python 
+
+----syntax examples-----
+print "message"
+variable = 5
+variable = "string"
+variable = True
+math is intuitive except exponents are [**]
+variable = "string bullshit %s %s" %(extra, dank)
+str()
+
+print("%.2f" % total)
+- % is a placeholder 
+- .2f -> print 2 decimals afer the . in float
+
