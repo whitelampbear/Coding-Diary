@@ -4,15 +4,26 @@
 1. variables use _ as space ie) my_variable
 2. whitespace provides the structure in python 
 
-----syntax examples-----
+----syntax-----
+#basics
 print "message"
 variable = 5
 variable = "string"
 variable = True
 math is intuitive except exponents are [**]
 variable = "string bullshit %s %s" %(extra, dank)
-str()
 
+
+#strings
+str()
+- makes anything in the brackets a string ie) str(5)
+different ways to make a string
+- 'Alpha'
+- "Bravo"
+- str(3)
+
+
+#quiz
 print("%.2f" % total)
 - % is a placeholder 
 - .2f -> print 2 decimals afer the . in float
