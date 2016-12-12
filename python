@@ -4,7 +4,6 @@
 1. variables use _ as space ie) my_variable
 2. whitespace provides the structure in python 
 
-----syntax-----
 #basics
 print "message"
 variable = 5
@@ -12,7 +11,6 @@ variable = "string"
 variable = True
 math is intuitive except exponents are [**]
 variable = "string bullshit %s %s" %(extra, dank)
-
 
 #strings
 str()
@@ -22,9 +20,15 @@ different ways to make a string
 - "Bravo"
 - str(3)
 
-
-#quiz
+#place holders
 print("%.2f" % total)
 - % is a placeholder 
 - .2f -> print 2 decimals afer the . in float
 
+#imports
+- [import math] have to preced with [math.sqrt()] if you want to use the function
+- [from math import *] import all, this allows for [sqrt()] but could conflict with existing function, avoid using if possible
+- [from math import sqrt()] imports only this function or variable can be used in code as [sqrt(42)]
+
+#Functions
+- Remember that an elif statement is only checked if all preceding if/elif statements fail.
