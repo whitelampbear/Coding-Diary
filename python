@@ -35,4 +35,4 @@ print("%.2f" % total)
 
 #Lists
 - datatypes used to store a collection of different pieces of information as a sequenece
-
+- lsit[1:3] *this goes up to but does not include [3]
