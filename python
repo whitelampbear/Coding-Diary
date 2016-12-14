@@ -32,3 +32,7 @@ print("%.2f" % total)
 
 #Functions
 - Remember that an elif statement is only checked if all preceding if/elif statements fail.
+
+#Lists
+- datatypes used to store a collection of different pieces of information as a sequenece
+
