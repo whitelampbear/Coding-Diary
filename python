@@ -1,4 +1,4 @@
-#python diary
+#Python Diary
 
 ----coding standard----
 1. variables use _ as space ie) my_variable
@@ -13,7 +13,7 @@ math is intuitive except exponents are [**]
 variable = "string bullshit %s %s" %(extra, dank)
 
 #strings
-str()
+str(my_variable)
 - makes anything in the brackets a string ie) str(5)
 different ways to make a string
 - 'Alpha'
@@ -30,9 +30,21 @@ print("%.2f" % total)
 - [from math import *] import all, this allows for [sqrt()] but could conflict with existing function, avoid using if possible
 - [from math import sqrt()] imports only this function or variable can be used in code as [sqrt(42)]
 
-#Functions
+#functions
 - Remember that an elif statement is only checked if all preceding if/elif statements fail.
 
-#Lists
+#lists
 - datatypes used to store a collection of different pieces of information as a sequenece
 - lsit[1:3] *this goes up to but does not include [3]
+- my_list[:2]  Grabs the first two items
+- my_list[3:]  Grabs the fourth through last items
+
+#index 
+- my_list.index(item)  grabs the index the item is 
+- my_list.insert(index, item)
+
+#for loops 
+- iterates over the items of any sequenece, ie) lists, strings
+- item is assigned to the iterating variable, the body is then applied to it. This continues for each item in the sequence until 
+it is exhausted. 
+
