@@ -49,7 +49,10 @@ print("%.2f" % total)
 it is exhausted. 
 
 #dictionaries
+- d = {'key1' : 1, 'key2' : 2, 'key3' : 3}
 - {} empty dictionary as [] is an empty list
+- add via my_dict['my_string'] = some_float
+- applying len() to a dictionary yields it's pairs as 1 length
+- del my_dict['key']  and to change just overwrite the value of the key
 - my_dict{key} = value  this can be a string, int/float, list
-- lists can be stored in keys 
 - dict_name['list_key'].list_function()
