@@ -48,3 +48,8 @@ print("%.2f" % total)
 - item is assigned to the iterating variable, the body is then applied to it. This continues for each item in the sequence until 
 it is exhausted. 
 
+#dictionaries
+- {} empty dictionary as [] is an empty list
+- my_dict{key} = value  this can be a string, int/float, list
+- lists can be stored in keys 
+- dict_name['list_key'].list_function()
