@@ -56,3 +56,4 @@ it is exhausted.
 - del my_dict['key']  and to change just overwrite the value of the key
 - my_dict{key} = value  this can be a string, int/float, list
 - dict_name['list_key'].list_function()
+- for loops on dictionaries are unordered. 
