@@ -6,3 +6,11 @@ Feb 1:
     solving equations > grabbing/filtering Crits > repeat for inflections & vert asym > PLOT > categorzie interesting points > limits 
 - excellent progress! Break throughs in categorzing interesting points and limits.
 - likely going to run a give if statement to plot and handle limits and legend 
+
+[ time passes ]
+- working on some trivial things finding an issue with the xlimits and properly setting them 
+- forking distru and trying the large if statement implementation 
+
+[ end of the day ] 
+- made decent progress
+- can't get the x limits to work properly. The main issue being nLimits > 1
