@@ -14,3 +14,11 @@ Feb 1:
 [ end of the day ] 
 - made decent progress
 - can't get the x limits to work properly. The main issue being nLimits > 1
+
+Feb 4:
+- Q2 & autoplot have all their comment docs done. Beuracratic shit done. 
+- cleaned up Q2, looks picture perfect now
+- horizontal asym is done
+- alternative bonus completed via solving for constant lines
+- periodics still don't work
+- algorithms for the day: picture of the whiteboard
